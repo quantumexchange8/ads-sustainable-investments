@@ -12,9 +12,11 @@
 
 <body>
     <div class="page-wrapper">
-        <header id="nav" class="header header-1 black-header mobile-no-transparent">
+        <header>
 
-            @include('layouts.partials.header')
+            @if (!isset($excludeHeader) || !$excludeHeader)
+                @include('layouts.partials.header')
+            @endif  
 
         </header>
 
@@ -22,7 +24,7 @@
 
         <footer class="site-footer">
 
-            {{-- @include('layouts.partials.footer') --}}
+            @include('layouts.partials.footer')
 
         </footer>
     </div>

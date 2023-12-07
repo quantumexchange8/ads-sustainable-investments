@@ -1212,7 +1212,7 @@ support for no js
 .pt-80-b-50-cont { padding-top:80px; padding-bottom:50px;}
 .pt-100-b-80-cont { padding-top:100px; padding-bottom:80px;}
 .pt-110-b-80-cont { padding-top:110px; padding-bottom:80px;}
-.pt-110-b-30-cont{ padding-top:110px; padding-bottom:30px;}
+.pt-110-b-30-cont{ padding-top:0; padding-bottom:30px;}
 .pt-110-b-40-cont{ padding-top:110px; padding-bottom:40px;}
 .pt-110-b-50-cont{ padding-top:110px; padding-bottom:50px;}
 .pt-110-b-60-cont{ padding-top:110px; padding-bottom:60px;}
@@ -1222,6 +1222,9 @@ support for no js
 
 @media only screen and (max-width : 1024px) {
   .p-140-cont{ padding-top:120px; padding-bottom:120px;}
+  .section-title {
+    font-size:20px;
+  }
 }
 
 @media only screen and (max-width : 768px) {
@@ -2158,7 +2161,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   will-change: background-position;
   margin: 0;
   padding: 0;
-  background: #2c2c2c url(..images/revo-slider/forest1.jpg) fixed;
+  background: #2c2c2c url(../images/static-media/index4.jpg) fixed;
   color:#f1f1f1;
 }
 .work-proc-1-bg h3, .work-proc-1-bg .icon  {
@@ -10739,7 +10742,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .pt-160-b-120-cont{ padding-top:160px; padding-bottom:120px;}
 .pt-120-b-120-cont{ padding-top:120px; padding-bottom:120px;}
 @media only screen and (max-width : 768px) {
-	.p-90-cont, .p-100-cont, .p-110-cont{ padding-top:80px; padding-bottom:80px;}
+	.p-90-cont, .p-100-cont, .p-110-cont{ padding-top:30px; padding-bottom:80px;}
 	.p-160-cont{ padding-top:120px; padding-bottom:120px;}
 	.pt-160-b-120-cont{ padding-top:100px; padding-bottom:70px;}
 	.pt-120-b-120-cont{ padding-top:100px; padding-bottom:70px;}

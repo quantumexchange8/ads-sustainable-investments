@@ -3,9 +3,9 @@
 @section('content')
 	
 		<!-- LOADER -->	
-		<div id="loader-overflow">
+		{{-- <div id="loader-overflow">
       <div id="loader3">Please enable JS</div>
-    </div>	
+    </div>	 --}}
 
 		<div id="wrap" class="boxed ">
 			<div class="grey-bg"> <!-- Grey BG  -->		
@@ -21,7 +21,7 @@
 								<li data-transition="zoomout" data-slotamount="1" data-masterspeed="1500" data-thumb="images/revo-slider/face-side-thumb.jpg"  data-saveperformance="on"  data-title="IMAGINATION">
 									
                   <!-- MAIN IMAGE -->
-                  <img src="images/revo-slider/dummy.png"  alt="slidebg2" data-lazyload="images/revo-slider/citybg.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                  <img src="images/revo-slider/dummy.png"  alt="slidebg2" data-lazyload="images/footer-intro-bg.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 									
 									<!-- LAYERS -->
 
@@ -309,7 +309,6 @@
 				<div class="page-section work-proc-1-bg" >
 					<div class="container fes4-cont">
 						<div class="row">
-							
 							<div class="col-md-4 ">
 								<div class="mb-50">
 								  <h2 class="section-title">The key distinction between impact investing and ESG investing can be summarised as follows: <span class="bold"></span></h2>
@@ -1004,3 +1003,4 @@
         
 			</div><!-- End BG -->	
 		</div><!-- End wrap -->	
+@endsection
