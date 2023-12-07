@@ -733,7 +733,7 @@
         </div> 
         
         <!-- BLOG 1 -->
-        <div class="page-section pt-110-b-30-cont">
+        {{-- <div class="page-section pt-110-b-30-cont">
           <div class="container">
                 
             <div class="mb-50">
@@ -866,10 +866,10 @@
             </div>
             
           </div>
-        </div>
+        </div> --}}
         
         <!-- NEWS LETTER -->
-        <div class="page-section nl-cont">
+        {{-- <div class="page-section nl-cont">
           <div class="container">
             <div class="relative" >
               <div id="mc_embed_signup" class="nl-form-container clearfix">
@@ -884,10 +884,10 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> --}}
 
         <!-- CONTACT INFO SECTION 1 -->
-        <div class="page-section p-110-cont">
+        {{-- <div class="page-section p-110-cont">
           <div class="container">
             <div class="row">
             
@@ -927,7 +927,7 @@
               
             </div>
           </div>        
-        </div>        
+        </div>         --}}
        
 				<!-- GOOGLE MAP & CONTACT FORM -->
         {{-- <div class="page-section gray-bg">
