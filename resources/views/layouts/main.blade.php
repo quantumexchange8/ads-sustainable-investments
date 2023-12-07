@@ -22,7 +22,7 @@
 
         <footer class="site-footer">
 
-            @include('layouts.partials.footer')
+            {{-- @include('layouts.partials.footer') --}}
 
         </footer>
     </div>
