@@ -42,6 +42,10 @@
                 <!-- MENU ITEM -->
                 <li>
                     <a href="{{ url('case') }}"><div class="main-menu-title">CASE STUDIES</div></a>
+                </li>
+                <li>
+                    <a href="{{ url('stories') }}"><div class="main-menu-title">STORIES</div></a>
+                </li>
                 <li>
                     <a href="{{ url('contact') }}"><div class="main-menu-title">CONTACT</div></a>
                 </li>
@@ -76,7 +80,7 @@
   </header>
 @section('content')
         <!-- PAGE TITLE -->
-        <div class="page-title-cont page-title-big grey-light-bg">
+        <div class="page-title-cont page-title-big grey-dark-bg">
             <div class="relative container align-left">
               <div class="row">
                  

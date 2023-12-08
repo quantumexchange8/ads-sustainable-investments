@@ -45,7 +45,7 @@
                                     <a href="{{ url('case') }}"><div class="main-menu-title">CASE STUDIES</div></a>
                                 </li>
                                 <li>
-                                    <a href="{{ url('stories') }}"><div class="main-menu-title">STORIES</div></a>
+                                    <a href="{{ url('stories') }}"><div class="main-menu-title">SUCCESS STORIES</div></a>
                                 </li>
                                 <li>
                                     <a href="{{ url('contact') }}"><div class="main-menu-title">CONTACT</div></a>
@@ -89,12 +89,12 @@
             <div class="row">
               
               <div class="col-md-8">
-                <h1 class="page-title">CASE STUDIES</h1>
+                <h1 class="page-title">STORIES</h1>
               </div>
               
               <div class="col-md-4">
                 <div class="breadcrumbs">
-                    <a href="{{ url('') }}">Home</a><span class="slash-divider">/</span><span class="bread-current">CASE STUDIES</span>
+                    <a href="{{ url('') }}">Home</a><span class="slash-divider">/</span><span class="bread-current">STORIES</span>
                 </div>
               </div>
               
@@ -108,11 +108,11 @@
           
             <div class="col-md-12">
             
-              <h2>SUSTAINABLE INVESTMENT</h2>
+              <h2>STORIES</h2>
               <hr>
-              <p>Environmental, Social, and Governance (ESG) factors have become increasingly important considerations in investment management. 
+              {{-- <p>Environmental, Social, and Governance (ESG) factors have become increasingly important considerations in investment management. 
                 Many investors are recognizing the potential benefits of integrating ESG considerations into their investment decisions. In this blog,
-                 we will explore some case studies of successful ESG integration in investment management.</p>
+                 we will explore some case studies of successful ESG integration in investment management.</p> --}}
             </div>
 
           </div>
@@ -132,7 +132,7 @@
                     </div>
                     
                     <div class="post-prev-title">
-                    <h3><a>Generation Investment Management</a></h3>
+                    <h3><a>The Growing Immediacy of Climate Change</a></h3>
                     </div>
                     
                     <div class="post-prev-info">
@@ -140,10 +140,7 @@
                     </div>
                     
                     <div class="post-prev-text no-border">
-                        Generation Investment Management is a London-based investment firm that was co-founded by former US Vice President Al Gore. The firm has a strong commitment to sustainability and has integrated ESG factors into its investment process since its founding in 2004.
-                    </div>
-                    <div class="post-prev-text no-border">
-                        Generation’s investment approach is focused on identifying companies that are well-positioned to succeed in a low-carbon future. The firm uses a proprietary Sustainability Framework to evaluate companies across multiple ESG dimensions, including governance, social and environmental performance, and innovation.
+                        Directly experiencing extreme and volatile weather events will spur increased investor concern about climate risk in their portfolios. Climate change is becoming a more immediate concern as people everywhere are directly experiencing extreme and uncommon weather events. The hottest July on record occurred this year, and 2019 is on track to be the second hottest year since modern temperature data collection began in 1880. These trends and events, as well as those beyond our direct experience, are constantly in the headlines, interpreted in the context of climate change and set alongside a steady stream of scientific reports all pointing to the same conclusion: that human-caused climate change is warming the earth and changing its climate, and the worst effects can still be avoided by drastically reducing greenhouse gas emissions over the next two decades.
                     </div>
                 
                 </div>

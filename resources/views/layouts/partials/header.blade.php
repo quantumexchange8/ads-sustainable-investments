@@ -36,6 +36,10 @@
                         <!-- MENU ITEM -->
                         <li>
                             <a href="{{ url('case') }}"><div class="main-menu-title">CASE STUDIES</div></a>
+                        </li>
+                        <li>
+                            <a href="{{ url('stories') }}"><div class="main-menu-title">STORIES</div></a>
+                        </li>
                         <li>
                             <a href="{{ url('contact') }}"><div class="main-menu-title">CONTACT</div></a>
                         </li>

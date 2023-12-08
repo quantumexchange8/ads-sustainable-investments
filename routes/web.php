@@ -24,3 +24,7 @@ Route::get('/case', function () {
 Route::get('/contact', function () {
     return view('main.contact');
 });
+
+Route::get('/stories', function () {
+    return view('main.stories');
+});

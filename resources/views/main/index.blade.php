@@ -286,6 +286,34 @@
 								  </div>
 								</div>
 							</div>
+              <div class="col-md-12">
+            
+                {{-- <div class="heading-underline"> --}}
+                  <h2>Who are making impact investments?</h2>
+                {{-- </div> --}}
+                <hr>
+                <p>Impact investment has attracted a wide variety of investors, both individual and institutional. </p>
+                <ul>
+                  <li>Fund Managers</li>
+                  <li>Development finance institutions</li>
+                  <li>Diversified financial institutions/banks</li>
+                  <li>Private foundations</li>
+                  <li>Pension funds and insurance companies</li>
+                  <li>Family Offices</li>
+                  <li>Individual investors</li>
+                  <li>NGOs</li>
+                  <li>Religious institutions</li>
+                  <li>Corporates</li>
+                </ul>     
+              </div>
+              <div class="col-md-12">
+                    
+                <h2>How do impact investments perform financially?</h2>
+                <hr>
+                <p>Impact investors have diverse financial return expectations. Some intentionally invest for below-market-rate returns, in line with their strategic objectives. Others pursue market-competitive and market-beating returns, sometimes required by fiduciary responsibility. Most investors surveyed in the GIIN's 2020 Annual Impact Investor Survey pursue competitive, market-rate returns.
+                </p>
+                <img src="images/impact.png">
+              </div>
               {{-- <div class="col-xs-12 col-sm-4 col-md-4">
                 <div class="fes4-box wow fadeIn" data-wow-delay="1000ms">
 								  <div class="fes4-title-cont" >
@@ -304,6 +332,7 @@
             </div>
 					</div>
 				</div>
+        
 
         				<!-- WORK PROCESS 1 -->
 				<div class="page-section work-proc-1-bg" >
@@ -311,7 +340,7 @@
 						<div class="row">
 							<div class="col-md-4 ">
 								<div class="mb-50">
-								  <h2 class="section-title">The key distinction between impact investing and ESG investing can be summarised as follows: <span class="bold"></span></h2>
+								  <h2 class="section-title">The key distinction between impact investing and sustainable investing can be summarised as follows: <span class="bold"></span></h2>
 								</div>
                 {{-- <p class="mb-50 " >Sed ut perspiciatis unde omnis iste nat eror acus  antium que</p> --}}
 							</div>
@@ -337,7 +366,7 @@
                           <div class="icon icon-basic-gear"></div>
                         </div>
                         <h3><span class="bold">MEASUREMENT</span></h3>
-                        <p>Impact investing requires investors to measure and report the social or environmental impact of their investments. ESG investing, on the other hand, focuses on evaluating a company's ESG performance and practices through data analysis and reporting. </p>
+                        <p>Impact investing requires investors to measure and report the social or environmental impact of their investments. Sustainable investing, on the other hand, focuses on evaluating a company's ESG performance and practices through data analysis and reporting. </p>
                       </div>
                     </div>
                   </div>
@@ -574,7 +603,7 @@
             
               <div class="col-md-12">
                 <div class="mb-50">
-								  <h2 class="section-title"> <span class="bold">ENVIRONMENTAL, SOCIAL, GOVERNANCE (ESG) INVESTING</span></h2>
+								  <h2 class="section-title"> <span class="bold">SUSTAINABLE INVESTING</span></h2>
 								</div>
 							</div>
               
@@ -627,7 +656,8 @@
               <!-- TESTIMONIALS 1 -->
               <div class="col-md-10">
                 <blockquote class="quote mb-0 m-p-0">
-                  <p>ESG refers to the environmental, social, and governance criteria for evaluating corporate behavior
+                  <p>Sustainable investing directs investment capital to companies that seek to combat climate change, environmental destruction, while promoting corporate responsibility. 
+                    ESG refers to the environmental, social, and governance criteria for evaluating corporate behavior
                      and screening potential investments. The ESG evaluation supplements traditional financial analysis
                       by identifying a company's ESG risks and opportunities, which is to say the money they stand to 
                       lose by not acting on ESG risks and the money they stand to gain from seizing ESG opportunities.
@@ -660,8 +690,133 @@
                         Governance. How does the company’s board and management drive positive change? Governance includes everything from issues surrounding executive pay to diversity in leadership as well as how well that leadership responds to and interacts with shareholders.
                       </p> 
                     </div>
+                    <div class="col-md-12">
+            
+                      {{-- <div class="heading-underline"> --}}
+                        <h2>Environmental, Social, and Governance (ESG) Factors</h2>
+                      {{-- </div> --}}
+                      <hr>
+                      <p>ESG factors are the primary criteria used to evaluate the sustainability and ethical impact of an investment. They encompass a wide range of issues, such as:</p>
+                      <h4><strong>Environmental</strong></h4>
+                      <ul>
+                        <li>Climate change, pollution, waste management, water scarcity, and biodiversity</li>
+                      </ul>  
+                      <h4><strong>Social</strong></h4>
+                      <ul>
+                        <li>Human rights, labor standards, diversity and inclusion, and community relations</li>
+                      </ul>  
+                      <h4><strong>Governance</strong></h4>
+                      <ul>
+                        <li>Corporate governance, executive compensation, board diversity, and transparency
+                        </li>
+                      </ul>    
+                    </div>
+                    {{-- <div class="col-md-12">
+                    
+                      <h2>Types of Sustainable Investments</h2>
+                      <hr>
+                      <h4>Green Bonds and Sustainable Bonds</h4>
+                      <p>Green bonds are debt securities issued by companies, governments, or financial institutions to finance environmentally friendly projects, such as renewable energy, energy efficiency, or pollution control. 
+                        Similarly, sustainable bonds are issued to finance projects that have both environmental and social benefits. These bonds provide investors with an opportunity to support sustainable initiatives while earning a fixed income.
+                      <h4>Impact Investing and Social Impact Bonds                        </h4>
+                      <p>Impact investing refers to investments made in companies, organizations, or funds with the explicit intention of generating measurable social and environmental impact alongside financial returns. 
+                        Social impact bonds are a type of impact investment where private investors fund social programs, and the government repays the investors based on the achievement of predetermined social outcomes</h4>
+                        <h4>Sustainable Exchange-Traded Funds (ETFs) and Mutual Funds</h4>
+                      <p>Sustainable ETFs and mutual funds are investment vehicles that pool investor capital to invest in a diversified portfolio of sustainable stocks or bonds. 
+                        These funds can be passive, tracking a specific sustainable index, or active, managed by a portfolio manager who selects securities based on ESG criteria and other sustainability factors.
+                        <h4>Community Investing and Microfinance</h4>
+                      <p>Community investing involves providing capital to underserved communities or low-income individuals to promote economic development, create jobs, and improve living standards. 
+                        Microfinance is a form of community investing that provides small loans, savings accounts, and other financial services to low-income entrepreneurs and individuals who lack access to traditional banking services.
+                    </div> --}}
+                    <div class="col-md-12">
+                    
+                      <h2>Sustainable Invesment Projects</h2>
+                      <hr>
+                      <p>Following the environmental, social, and corporate governance (ESG) framework, there are a wide variety of investments that can be considered “sustainable.” Industries that promote good environmental practices, via more renewable energy sources or by combating air and water pollution, are perhaps the first things that come to mind for most people. However, sustainable investing can also include investing in companies that support human rights initiatives or a more ethical corporate culture.
+                      </p> 
+                      <p>For instance, investments in renewable energy projects, such as solar and wind farms, have contributed to the reduction of greenhouse gas emissions and the creation of new jobs in the clean energy sector. 
+                        Additionally, impact investments in affordable housing or healthcare initiatives have improved living conditions and access to essential services for underserved communities.
+                      </p>
+                    </div>
+                    </div>
+                    <div id="dropcaps" class="bs-docs-section mb-40">
+                      <div class="heading-underline h3-line">
+                        <h3 class="mb-40">Types of Sustainable Investments</h3>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-6">
+                          <p class="mb-30"><span class="dropcap1">G</span><b>reen bonds</b> are debt securities issued by companies, governments, or financial institutions to finance environmentally friendly projects, such as renewable energy, energy efficiency, or pollution control. 
+                            Similarly, <b>sustainable bonds </b> are issued to finance projects that have both environmental and social benefits. These bonds provide investors with an opportunity to support sustainable initiatives while earning a fixed income.</p>
+                          <p class="mb-30"><span class="dropcap2">I</span><b>mpact investing </b> refers to investments made in companies, organizations, or funds with the explicit intention of generating measurable social and environmental impact alongside financial returns. 
+                            <b>Social impact </b> bonds are a type of impact investment where private investors fund social programs, and the government repays the investors based on the achievement of predetermined social outcomes</p>
+                        </div>	
+                        <div class="col-md-6">
+                          <p class="mb-30"><span class="dropcap3">S</span><b>ustainable ETFs</b> and <b> mutual funds </b>are investment vehicles that pool investor capital to invest in a diversified portfolio of sustainable stocks or bonds. 
+                            These funds can be passive, tracking a specific sustainable index, or active, managed by a portfolio manager who selects securities based on ESG criteria and other sustainability factors.</p>
+                          <p class="mb-30"><span class="dropcap4">C</span><b>ommunity investing </b> involves providing capital to underserved communities or low-income individuals to promote economic development, create jobs, and improve living standards. 
+                            <b> Microfinance </b> is a form of community investing that provides small loans, savings accounts, and other financial services to low-income entrepreneurs and individuals who lack access to traditional banking services.</p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-12">
+                    
+                      <h2>Future of Sustainable Investment</h2>
+                      <hr>
+                    </div>
+                    				<!-- FEATURES 8 -->
+                  <div class="page-section">
+                    <div class="container">
+                      <div class="row">
+                    
+                        <div class="col-xs-12 col-sm-4 col-md-4">
+                          <div class="fes8-box wow fadeIn">
+                            <div class="fes8-title-cont" >
+                              <div class="fes8-box-icon">
+                                <div class="icon icon-basic-smartphone"></div>
+                              </div>
+                              <h3>Technological Advancements and Innovations</h3>
+                            </div>
+                            <div>
+                              Emerging technologies like AI, big data, and blockchain can revolutionize sustainable investment by 
+                              refining ESG data, optimizing risk assessment and portfolios, and increasing transparency and traceability throughout the investment process.
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-4">
+                          <div class="fes8-box wow fadeIn" data-wow-delay="200ms">
+                            <div class="fes8-title-cont" >
+                              <div class="fes8-box-icon">
+                                <div class="icon icon-basic-mixer2"></div>
+                              </div>
+                              <h3>Expanding Sustainable Investment Opportunities</h3>
+                            </div>
+                            <div>
+                              As more companies and sectors adopt sustainable business practices, the range of sustainable investment opportunities is expected to expand. 
+                              This will provide investors with a broader array of investment options and enable them to further diversify their portfolios while maintaining alignment with their sustainability objectives.
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-4">
+                          <div class="fes8-box wow fadeIn" data-wow-delay="400ms">
+                            <div class="fes8-title-cont" >
+                              <div class="fes8-box-icon">
+                                <div class="icon icon-basic-share"></div>
+                              </div>
+                              <h3>The Role of Sustainable Investment in Addressing Global Challenges</h3>
+                            </div>
+                            <div>
+                              Sustainable investment will play a critical role in addressing pressing global challenges, such as climate change, social inequality, and resource scarcity. 
+                              By directing capital towards sustainable projects and companies, investors can contribute to the transition to a low-carbon, inclusive, and resource-efficient global economy, and help create a more sustainable future for all.
+                            </div>
+                          </div>
+                        </div>
+                        
+                      </div>
+                    </div>
                   </div>
-                </div><br><br>
+                  </div><br><br>
+                  
 
                         <!-- FEATURES 7 -->
         <div class="page-section grey-light-bg clearfix">
