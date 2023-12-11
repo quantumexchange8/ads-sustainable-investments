@@ -729,6 +729,11 @@
                           </table>
                         </div>
                         <h4 style="font-style: italic; font-size: 13px; text-align: center;">Source: Morningstar Direct, data through December 4, 2023.</h4>
+                        <p>Look at the Vanguard ESG U.S. Stock ETF (ESGV). It’s popular, having garnered $7 billion in total net assets. Over the past five years, 
+                          including 2023 through December 4, ESGV has outperformed the broad U.S. stock market embodied by the diverse S&P 500 Index three of those five years.
+                        </p>
+                        <p> It should be noted, though, that while many ESG indexes and index funds have recently outperformed broad indexes, like the Russell 1000 or S&P 500, they’ve done this in part because of the greater percentage of tech companies they contain.
+                        </p>
                       </div>	
                     </div>
                     <div class="col-md-12">
