@@ -45,7 +45,7 @@
                                     <a href="{{ url('case') }}"><div class="main-menu-title">CASE STUDIES</div></a>
                                 </li>
                                 <li>
-                                    <a href="{{ url('stories') }}"><div class="main-menu-title">SUCCESS STORIES</div></a>
+                                    <a href="{{ url('stories') }}"><div class="main-menu-title">STORIES</div></a>
                                 </li>
                                 <li>
                                     <a href="{{ url('contact') }}"><div class="main-menu-title">CONTACT</div></a>
@@ -108,7 +108,7 @@
           
             <div class="col-md-12">
             
-              <h2>STORIES</h2>
+              <h2>SUSTAINABLE INVESTING STORIES</h2>
               <hr>
               {{-- <p>Environmental, Social, and Governance (ESG) factors have become increasingly important considerations in investment management. 
                 Many investors are recognizing the potential benefits of integrating ESG considerations into their investment decisions. In this blog,
@@ -153,7 +153,7 @@
                     </div>
                     
                     <div class="post-prev-title">
-                    <h3><a>Calvert Investments</a></h3>
+                    <h3><a>The Shift Toward Stakeholder Capitalism</a></h3>
                     </div>
                     
                     <div class="post-prev-info">
@@ -161,10 +161,10 @@
                     </div>
                     
                     <div class="post-prev-text no-border">
-                        Calvert Investments is a US-based investment management firm that specializes in socially responsible investing. The firm was founded in 1976 and has been integrating ESG factors into its investment process for over 40 years.
+                        Sustainable investors can help bring about stakeholder capitalism. The world is shifting its thinking about the purpose of the corporation, as illustrated by the Business Roundtable's statement on corporate purpose released in August. A significant departure from the long-standing view that the primary purpose of a corporation is to maximize shareholder value, the Business Roundtable statement said the purpose of a corporation is to serve and create value for all stakeholders.
                     </div>
                     <div class="post-prev-text no-border">
-                        Calvert’s investment approach is focused on identifying companies that are leaders in sustainability and corporate responsibility. The firm uses a proprietary ESG scoring system to evaluate companies across multiple dimensions, including environmental management, social impact, and governance.
+                        While sustainable investment strategies vary in their particular investment approaches, at some level most of them are trying to identify companies that are pursuing stakeholder value, avoid those that aren't, and engage as shareholders with the ones they own to urge them in that direction.
                     </div>
                 
                 </div>
@@ -173,11 +173,11 @@
                 <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="400ms" >
                     
                     <div class="post-prev-img">
-                    <a><img src="images/fes7-2.jpg" alt="img"></a>
+                    <a><img src="images/stories.png" alt="img"></a>
                     </div>
                     
                     <div class="post-prev-title">
-                    <h3><a>Impax Asset Management</a></h3>
+                    <h3><a>Proxy Voting and Shareholder Engagement Take Center Stage</a></h3>
                     </div>
                     
                     <div class="post-prev-info">
@@ -185,11 +185,11 @@
                     </div>
                     
                     <div class="post-prev-text no-border">
-                        Impax Asset Management is a UK-based investment management firm that specializes in environmental markets. The firm was founded in 1998 and has been integrating ESG factors into its investment process since its founding.
+                        Active ownership is central to sustainable investing. Investors continued the trend of greater support for ESG-related shareholder resolutions in the 2019 proxy season. ESG resolutions drew the support, on average, of nearly 30% of the shares voted at the annual general meetings of U.S. companies. That's the highest level of support over the 16 years for which Morningstar has proxy voting data.
                     </div>
                 
                     <div class="post-prev-text no-border">
-                        Impax’s investment approach is focused on identifying companies that are well-positioned to benefit from the transition to a more sustainable economy. The firm uses a proprietary framework to evaluate companies across multiple ESG dimensions, including resource efficiency, clean energy, and sustainable food and agriculture.
+                        Sustainable investors have also ramped up their direct engagements with companies, taking on ESG-related issues like guns, opioids, gender equity, and climate change in 2019. The Climate Action 100+, for example, is a group of global investors who engage with systemically important greenhouse-gas-emitting companies about aligning their business strategies with the goals of the Paris Agreement. The group's progress report for 2019 outlines its progress in urging companies to set emissions-reductions targets and to implement concrete strategies to achieve them.
                     </div>
 
                 </div>
@@ -199,43 +199,193 @@
             </div>
             </div>
             
-        <!-- COTENT CONTAINER -->
-        <div class="container p-10-cont">
+        
+            <!-- COTENT CONTAINER -->
+        
+            <div class="container p-10-cont">
             <div class="row">
-            
-              <div class="col-md-12">
-              
-                <h2>IMPACT INVESTMENT</h2>
-                <hr>
-                <p>Investments made with the intention to generate positive, measurable social and environmental impact alongside a financial return. By generating profits from an innovative business model, a company can pay financial returns to investors alongside doing something good for the world.</p>
-              </div>
   
             </div>
           </div><BR>
 
-        <!-- COTENT CONTAINER -->
-        <div class="container p-10-cont">
-            <div class="row">
-            
-                <div class="col-md-6">
+        <!-- BLOG 2 -->
+        <div class="page-section pt-110-b-30-cont">
+            <div class="container">
                 
-                {{-- <h2>Explore case studies:</h2>
-                <hr>
-                <p>The GIIN's Research Center provides investors with information and stories about impact investments in action. Below are case studies from the GIIN's various initiatives and reports. </p>
-                <br> --}}
-                <h4>Aegon Investment Management BV</h4>
-                {{-- <hr> --}}
-                <p>Aegon N.V. is a multinational life insurance, pensions, and asset management company headquartered in the Netherlands. Aegon Asset Management (AAM), the company’s investment arm, is their in-house asset manager.</p>
-                <h4>Energy Access Debt Fund</h4>
-                {{-- <hr> --}}
-                <p>responsAbility Investments AG is an asset manager in the field of development investments and offers professionally-managed investment solutions to private, institutional, and public investors.</p>
-                <h4>California FreshWorks Fund Term Debt Facility</h4>
-                {{-- <hr> --}}
-                <p>The California Endowment’s goal with the FreshWorks Fund is to increase the availability of healthy food options in areas where there is limited access, particularly low-income communities.</p>
+                <div class="row">
+                
+                <!-- Post Item 1 -->
+                <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" >
+                    
+                    <div class="post-prev-img">
+                    <a><img src="images/stories2.png" alt="img"></a>
+                    </div>
+                    
+                    <div class="post-prev-title">
+                    <h3><a>Turning Back the Clock at the SEC</a></h3>
+                    </div>
+                    
+                    <div class="post-prev-info">
+                    
+                    </div>
+                    
+                    <div class="post-prev-text no-border">
+                        A partisan SEC seeks to limit shareholder proposals and change the proxy voting process. Shareholder 
+                        proposals are a critical means of communications between companies and their shareholders--especially individual 
+                        shareholders who are able to propose resolutions alongside big institutional shareholders. Over the years, shareholder 
+                        resolutions have helped put ESG issues front-and-center on many companies' radars, helping them attend to issues before
+                         they suffer the financial consequences of ignoring them.
+                    </div>
+
+                    <div class="post-prev-text no-border">
+                        At a time when proxy voting and shareholder engagement are becoming more central to corporate governance, the U.S. Securities
+                         and Exchange Commission is moving to limit these activities. During this year's proxy season, the SEC was more willing to allow 
+                         companies to leave shareholder resolutions off the proxy ballot because they were deemed to be about ordinary business and beyond
+                          the scope of shareholder oversight.
+                    </div>
+                
                 </div>
-    
+                
+                <!-- Post Item 2 -->
+                <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="200ms" >
+                    
+                    <div class="post-prev-img">
+                    <a><img src="images/stories4.png" alt="img"></a>
+                    </div>
+                    
+                    <div class="post-prev-title">
+                    <h3><a>Interest in Sustainable Investing Continues to Rise Among Individual Investors</a></h3>
+                    </div>
+                    
+                    <div class="post-prev-info">
+                    
+                    </div>
+                    
+                    <div class="post-prev-text no-border">
+                        A tsunami of assets to follow? Every other year since 2015, Morgan Stanley has surveyed individual investors about their interest in sustainable investing. In 2015, 71% indicated an interest. This year, 85% indicated an interest (and 95% of millennials). And perhaps more tellingly, a much greater proportion in 2019 said they were "very" interested in sustainable investing. In 2015 only 19% said they were "very" interested, but this year 49% said so.
+                    </div>
+                    <div class="post-prev-text no-border">
+                        So why hasn't that interest translated into invested assets? Being interested in sustainable investing doesn't speed up someone's investing activities. Most individuals change their investments only on occasion, and often only when a new occasion presents itself (an inheritance, for example, or a large bonus). In the case of millennials, many are still in the early stages of their personal investing. Interest in sustainable investing doesn't suddenly turn people into investors. But when they are ready to invest, they're going to do so sustainably. That's why I believe we're still in the early days of sustainable investment asset growth. A September Bank of America report concluded that a "tsunami of assets is poised to invest" sustainably over the next two decades.
+                    </div>
+                
+                </div>
+                
+                <!-- Post Item 3 -->
+                <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="400ms" >
+                    
+                    <div class="post-prev-img">
+                    <a><img src="images/stories3.png" alt="img"></a>
+                    </div>
+                    
+                    <div class="post-prev-title">
+                    <h3><a>Flows Into U.S. Sustainable Funds More Than Tripled in 2019</a></h3>
+                    </div>
+                    
+                    <div class="post-prev-info">
+                    
+                    </div>
+                    
+                    <div class="post-prev-text no-border">
+                        Fourth year in a row of record flows. If not exactly a tsunami, a big wave of flows came into sustainable funds this year. Estimated net flows into open-end and exchange-traded sustainable funds available to U.S. investors reached $17.7 billion through November. That's more than triple the record for an entire calendar year, set in 2018.
+                    </div>
+
+                </div>
+                
+                </div>
+                
             </div>
-            </div> 
+            </div>
+
+                    <!-- BLOG 3 -->
+        <div class="page-section pt-110-b-30-cont">
+            <div class="container">
+                
+                <div class="row">
+                
+                <!-- Post Item 1 -->
+                <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" >
+                    
+                    <div class="post-prev-img">
+                    <a><img src="images/stories2.png" alt="img"></a>
+                    </div>
+                    
+                    <div class="post-prev-title">
+                    <h3><a> A Strong Year for U.S. Sustainable Fund Performance</a></h3>
+                    </div>
+                    
+                    <div class="post-prev-info">
+                    
+                    </div>
+                    
+                    <div class="post-prev-text no-border">
+                        Sustainable funds top performers across a range of categories. Through November, the returns of nearly two thirds (65%) 
+                        of open-end and exchange-traded sustainable funds ranked in the best half of their respective Morningstar Categories. The
+                         returns of 37% placed in the best quartile, while those of only 15% placed in the worst quartile. The returns of sustainable funds placed in the best quartile of 27 different categories.
+                    </div>
+
+                    <div class="post-prev-text no-border">
+                        Among large-cap blend funds, the returns of nearly half (48%) of sustainable funds are ahead of the S&P 500 for the year to date, compared with 
+                        only 22% of large-blend funds overall.
+                    </div>
+                
+                </div>
+                
+                <!-- Post Item 2 -->
+                <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="200ms" >
+                    
+                    <div class="post-prev-img">
+                    <a><img src="images/stories4.png" alt="img"></a>
+                    </div>
+                    
+                    <div class="post-prev-title">
+                    <h3><a>Many More Funds "Considering" ESG</a></h3>
+                    </div>
+                    
+                    <div class="post-prev-info">
+                    
+                    </div>
+                    
+                    <div class="post-prev-text no-border">
+                        Does it make any difference in how they're run? Over the past year, many conventional funds in the U.S. have added ESG criteria to their prospectus, bringing the total to about 500. This trend reflects the realization on the part of many asset managers that consideration of material ESG issues results in a more complete investment analysis. Yet there is little evidence thus far of whether ESG "consideration" is actually having an impact on these funds.
+                    </div>
+                    <div class="post-prev-text no-border">
+                        I expect this trend to continue, but fund managers will need to do a better job showing what difference ESG consideration makes in order to be credible with sustainable investors.
+                    </div>
+                
+                </div>
+                
+                <!-- Post Item 3 -->
+                <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="400ms" >
+                    
+                    <div class="post-prev-img">
+                    <a><img src="images/stories5.png" alt="img"></a>
+                    </div>
+                    
+                    <div class="post-prev-title">
+                    <h3><a>Enhancement to Morningstar Sustainability Rating </a></h3>
+                    </div>
+                    
+                    <div class="post-prev-info">
+                    
+                    </div>
+                    
+                    <div class="post-prev-text no-border">
+                        A more robust assessment of the ESG risk embedded in a portfolio. The enhanced Morningstar Sustainability
+                         Rating was released in November, with a greater focus on the financial materiality of ESG issues. It now
+                          reflects both within-industry and across-industry assessments of ESG risk.
+                    </div>
+
+                    <div class="post-prev-text no-border">
+                        An overwhelming majority of diversified sustainable funds receive 4 or 5 globes, far more than the percentage 
+                        of ESG consideration funds or conventional funds that receive 4 or 5 globes.
+                    </div>
+
+                </div>
+                
+                </div>
+                
+            </div>
+            </div>
         
 				<!-- BACK TO TOP -->
 				<p id="back-top">

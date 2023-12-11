@@ -688,7 +688,48 @@
                       <p>Environment. What kind of impact does a company have on the environment? This can include a company’s carbon footprint, its abstinence from or mitigation of toxic chemicals involved in its manufacturing and other processes and its pursuit of sustainability throughout its supply chain.
                         Social. How does the company improve its social impact, both within the company and in the broader community? Social factors include everything from LGBTQ+ equality to racial diversity in both the executive suite and staff overall, and inclusion programs and hiring practices. It even looks at how a company advocates for social good in the wider world, beyond its own limited sphere of business.
                         Governance. How does the company’s board and management drive positive change? Governance includes everything from issues surrounding executive pay to diversity in leadership as well as how well that leadership responds to and interacts with shareholders.
-                      </p> 
+                      </p><br>
+                      <div id="tables" class="mb-50 bs-docs-section">
+                        <div class="table-responsive">
+                          <table class="table table-bordered">
+                          <thead>
+                            <tr>
+                            <th><b>Year</b></th>
+                            <th><b>Vanguard ESG U.S. Stock ETF (ESGV)</b></th>
+                            <th><b>S&P 500 Index</b></th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>2019</td>
+                              <td>33.4%</td>
+                              <td>31.5%</td>
+                            </tr>
+                            <tr>
+                              <td>2020</td>
+                              <td>25.7%</td>
+                              <td>18.4%</td>
+                            </tr>
+                            <tr>
+                              <td>2021</td>
+                              <td>26.4%</td>
+                              <td>28.7%</td>
+                            </tr>
+                            <tr>
+                              <td>2022</td>
+                              <td>-24.0%</td>
+                              <td>-18.1%</td>
+                            </tr>
+                            <tr>
+                              <td>2023 YTD</td>
+                              <td>24.8%</td>
+                              <td>21.4%</td>
+                            </tr>
+                          </tbody>
+                          </table>
+                        </div>
+                        <h4 style="font-style: italic; font-size: 13px; text-align: center;">Source: Morningstar Direct, data through December 4, 2023.</h4>
+                      </div>	
                     </div>
                     <div class="col-md-12">
             

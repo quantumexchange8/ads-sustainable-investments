@@ -152,7 +152,7 @@
                 <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="200ms" >
                     
                     <div class="post-prev-img">
-                    <a><img src="images/fes7-2.jpg" alt="img"></a>
+                    <a><img src="images/static-media/laby.jpg" alt="img"></a>
                     </div>
                     
                     <div class="post-prev-title">
@@ -176,7 +176,7 @@
                 <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn pb-70" data-wow-delay="400ms" >
                     
                     <div class="post-prev-img">
-                    <a><img src="images/fes7-2.jpg" alt="img"></a>
+                    <a><img src="images/static-media/the-crossswalk.jpg" alt="img"></a>
                     </div>
                     
                     <div class="post-prev-title">
@@ -226,20 +226,28 @@
                 <hr>
                 <p>The GIIN's Research Center provides investors with information and stories about impact investments in action. Below are case studies from the GIIN's various initiatives and reports. </p>
                 <br> --}}
-                <h4>Aegon Investment Management BV</h4>
+                <a href="https://thegiin.org/case-study/aegon-investment-management-bv/" target="_blank"><h4>Aegon Investment Management BV</h4></a>
                 {{-- <hr> --}}
                 <p>Aegon N.V. is a multinational life insurance, pensions, and asset management company headquartered in the Netherlands. Aegon Asset Management (AAM), the company’s investment arm, is their in-house asset manager.</p>
-                <h4>Energy Access Debt Fund</h4>
+                <a href="https://thegiin.org/case-study/energy-access-debt-fund/" target="_blank"><h4>Energy Access Debt Fund</h4></a>
                 {{-- <hr> --}}
                 <p>responsAbility Investments AG is an asset manager in the field of development investments and offers professionally-managed investment solutions to private, institutional, and public investors.</p>
-                <h4>California FreshWorks Fund Term Debt Facility</h4>
+
+                <a href="https://thegiin.org/california-freshworks-fund-term-debt-facility/" target="_blank"><h4>California FreshWorks Fund Term Debt Facility</h4></a>
                 {{-- <hr> --}}
                 <p>The California Endowment’s goal with the FreshWorks Fund is to increase the availability of healthy food options in areas where there is limited access, particularly low-income communities.</p>
+
+                <a href="https://thegiin.org/adobe-capital-exit-from-natgas/" target="_blank"><h4>Adobe Capital's Exit from Natgas</h4></a>
+                {{-- <hr> --}}
+                <p>Adobe Capital, founded in 2012 and based in Mexico City, creates social and environmental impact by investing in impactful early- and growth-stage enterprises in Latin America</p>
+
+                <a href="https://thegiin.org/acumen-fund/" target="_blank"><h4>Acumen Fund</h4></a>
+                {{-- <hr> --}}
+                <p>Acumen Fund, a nonprofit impact investment fund, raises charitable donations to make equity investments in early-stage companies that provide a product or service to the poor.</p>
                 </div>
     
             </div>
             </div> 
-        
 				<!-- BACK TO TOP -->
 				<p id="back-top">
           <a href="#top" title="Back to Top"><span class="icon icon-arrows-up"></span></a>
