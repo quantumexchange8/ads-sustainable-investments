@@ -3,6 +3,16 @@
 @endphp
 @extends('layouts.main')
 @section('title', 'Campaign')
+<style>
+    .container .col-md-6 h4 {
+        color: #000;
+        transition: color 0.3s; 
+    }
+
+    .container .col-md-6 h4:hover {
+        color: #FF0000; 
+    }
+</style>
 				<!-- HEADER 1 NO-TRANSPARENT -->
 				<header id="nav" class="header header-1 no-transparent mobile-no-transparent">
           
@@ -221,7 +231,6 @@
             <div class="row">
             
                 <div class="col-md-6">
-                
                 {{-- <h2>Explore case studies:</h2>
                 <hr>
                 <p>The GIIN's Research Center provides investors with information and stories about impact investments in action. Below are case studies from the GIIN's various initiatives and reports. </p>

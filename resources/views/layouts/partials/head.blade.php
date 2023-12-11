@@ -1,11 +1,10 @@
 <head>
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-    <meta name="robots" content="index, follow" > 
+    <meta name="robots" content="noindex, nofollow" > 
     <meta name="keywords" content="HTML5 Template" > 
     <meta name="description" content="Haswell - Responsive HTML5 Template" > 
     <meta name="author" content="11soft">
-
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
     <!-- FAVICONS -->
