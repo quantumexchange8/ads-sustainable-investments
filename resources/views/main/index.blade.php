@@ -41,7 +41,7 @@
 											data-splitout="none"
 											data-elementdelay="0.1"
 											data-endelementdelay="0.1"
-											style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">Sustainable Investing
+											style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">Impact Investing:
 										</div>
 										
 										<!-- LAYER NR. 2 -->
@@ -71,13 +71,12 @@
 											data-splitout="none"
 											data-elementdelay="0.1"
 											data-endelementdelay="0.1"
-											style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;"><span class="bold">Impact Investing</span>
+											style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;"><span class="bold">Building Sustainable Tomorrow</span>
 										</div>
 									</div>
 								</li>
 								
 								<!-- SLIDE 3 -->
-
 							</ul>
 					
 						</div>
@@ -206,6 +205,9 @@
                   </div>
                   
                 </div> 
+                <div class="mt-30">
+                  <a class="button medium thin hover-dark" href="#contact-section" style="margin-left:50px;">GET STARTED NOW</a>
+                </div>
             
               </div>
             </div><!--end of row-->
@@ -371,6 +373,9 @@
                     </div>
                   </div>
 
+                </div>
+                <div class="mt-30">
+                  <a class="button medium gray" href="#contact-section">START INVESTING NOW</a>
                 </div>
                 
                 {{-- <div class="row">
@@ -774,7 +779,8 @@
                       <p>Community investing involves providing capital to underserved communities or low-income individuals to promote economic development, create jobs, and improve living standards. 
                         Microfinance is a form of community investing that provides small loans, savings accounts, and other financial services to low-income entrepreneurs and individuals who lack access to traditional banking services.
                     </div> --}}
-                    <div class="col-md-12">
+
+                    {{-- <div class="col-md-12">
                     
                       <h2>Sustainable Invesment Projects</h2>
                       <hr>
@@ -783,8 +789,27 @@
                       <p>For instance, investments in renewable energy projects, such as solar and wind farms, have contributed to the reduction of greenhouse gas emissions and the creation of new jobs in the clean energy sector. 
                         Additionally, impact investments in affordable housing or healthcare initiatives have improved living conditions and access to essential services for underserved communities.
                       </p>
+                    </div> --}}
+                    
                     </div>
-                    </div>
+                </div><br>
+                    <div class="page-section grey-light-bg pt-80-b-50-cont"> 
+                      <div class="container">
+                        <div class="row">
+                        
+                          <div class="col-md-9 pb-30 text-center-sm">
+                            <h4 class="mt-0 mb-5 "><span class="bold">START PLANNING ALL YOU NEED FOR CONSTRUCTION AND RENOVATION</span></h4>
+                            <span>Don't hesitate.</span>
+                          </div>
+                          
+                          <div class="col-md-3 text-center pb-30">
+                            <a class="button medium gray" href="#contact-section">START NOW</a>
+                          </div>
+                          
+                        </div>    
+                      </div>    
+                    </div><br>
+                    <div class="container p-40-cont">
                     <div id="dropcaps" class="bs-docs-section mb-40">
                       <div class="heading-underline h3-line">
                         <h3 class="mb-40">Types of Sustainable Investments</h3>
@@ -926,11 +951,185 @@
                   </div> --}}
                   
                 </div> 
-            
+                <div class="mt-30">
+                  <a class="button medium thin hover-dark" href="#contact-section" style="margin-left:50px;">INVEST NOW</a>
+                </div>
               </div>
             </div><!--end of row-->
           </div>
-        </div> 
+        </div>
+        <div class="container p-110-cont">
+          <div class="row">
+            <div class="col-md-12">
+                    
+                <h2>FAQs</h2>
+                <hr>
+              <!-- Accordion -->
+               <dl class="accordion">
+                 <dt>
+                   <a href="#">Is ESG investing profitable?</a>
+                 </dt>
+                 <dd>
+                  A 2019 study of 11,000 mutual funds conducted by the Morgan Stanley Institute for Sustainable Investing found that there was no financial 
+                  trade-off in the returns of sustainable funds compared to their more traditional counterparts. Additionally, regardless of the asset class held, sustainable funds also showed a significantly lower downside risk. Finally, during periods of high market volatility, sustainable funds generally proved to be more stable investments.
+                 </dd>
+                 <dt>
+                   <a href="#">Is there such a thing as ethical investing?</a>
+                 </dt>
+                 <dd>
+                  For someone to invest ethically, they must use their ethical principles as the primary filter when selecting companies to invest in. What makes this different from green or ESG investing, each of which typically have an overarching set of guidelines, is that the criteria that make a company “ethical” can differ from one investor to 
+                  another. For example, two investors who both value clean energy companies may disagree on whether or not nuclear energy qualifies as a “clean” source.
+                 </dd>
+                 <dt>
+                   <a href="#">What are examples of sustainable investments?</a>
+                 </dt>
+                 <dd>
+                  Following the environmental, social, and corporate governance (ESG) framework, there are a wide variety of investments that can be considered “sustainable.” Industries that promote good environmental practices, via more renewable energy sources or by combating air and water pollution, are perhaps the first things that come to mind for 
+                  most people. However, sustainable investing can also include investing in companies that support human rights initiatives or a more ethical corporate culture.
+                 </dd>
+                 {{-- <dt>
+                   <a href="#">HOW DO I BECOME AN AUTHOR?</a>
+                 </dt>
+                 <dd>
+                   CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
+                 </dd>
+                 <dt>
+                   <a href="#">WHAT CONTENT CAN I USE IN MY ITEMS?</a>
+                 </dt>
+                 <dd>
+                   CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
+                 </dd>
+                 <dt>
+                   <a href="#">HOW DO I PAY FOR ITEMS?</a>
+                 </dt>
+                 <dd>
+                   CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
+                 </dd> --}}
+               </dl>
+               <!-- End Accordion -->
+            </div>          
+          </div>          
+        </div>    
+
+                    <!-- GOOGLE MAP & CONTACT FORM -->
+                    <div class="page-section" id="contact-section">
+                      <div class="container-fluid">
+                        <div class="row">
+                        
+                          <div class="col-md-6">
+                            <div class="row">
+                              <div class="google-map">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.8738357257325!2d-122.40630728431469!3d37.79299637975601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085808a52e9373d%3A0x9c2dff1cdf2bd440!2s580+California+Street%2C+580+California+St%2C+San+Francisco%2C+CA+94104%2C+%D0%A1%D0%A8%D0%90!5e0!3m2!1sru!2sby!4v1549462634166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                              </div>
+                            </div>
+                          </div>
+          
+                          <div class="col-md-6">
+                            <div class="contact-form-cont">
+                              <!-- TITLE -->
+                              <div class="mb-40">
+                                <h2 class="section-title">CONTACT <span class="bold">US</span></h2>
+                              </div>
+                                            
+                              <!-- CONTACT FORM -->
+                              <div>
+                                <form id="contact-form" name="contact-form" action="https://script.google.com/macros/s/AKfycbyKz7xcJXqg7L_U37ydei-3FAMVvuSTqhw56E2aS7QQp6-RgHs5pFNJ_FFGvLqCJqHj/exec" method="POST">
+                                
+                                  <div class="row">
+                                    <div class="col-md-12 mb-30">
+                                      <!-- <label>Your name *</label> -->
+                                      <input type="text" value="" data-msg-required="Please enter your name" maxlength="100" class="controled" name="name" id="name" placeholder="NAME" required>
+                                    </div>
+                                  </div>
+                                  
+                                  <div class="row">    
+                                    <div class="col-md-12 mb-30">
+                                      <!-- <label>Your email address *</label> -->
+                                      <input type="email" value="" data-msg-required="Please enter your email address" data-msg-email="Please enter a valid email address" maxlength="100" class="controled" name="email" id="email" placeholder="EMAIL" required>
+                                      </div>
+                                  </div>
+                              
+                                  <div class="row">
+                                    <div class="col-md-12 mb-40">
+                                      <!-- <label>Message *</label> -->
+                                      <textarea maxlength="5000" data-msg-required="Please enter your message" rows="3" class="controled" name="message" id="message" placeholder="MESSAGE" required></textarea>
+                                    </div>
+                                  </div>
+                                  
+                                  <div class="row">
+                                    <div class="col-md-12 text-center-xxs">
+                                      <input type="submit" value="SEND MESSAGE" class="button medium gray" data-loading-text="Loading...">
+                                    </div>
+                                  </div>
+                                  {{-- <div class="row">
+                                    <div class="col-md-12">
+                                      <div class="checkbox small">
+                                        <label><input type="checkbox" value="privacy" data-msg-required="Please accept the terms" id="agree" name="agree" class="checkbox" required>I agree to the terms of service</label>
+                                      </div>
+                                    </div>
+                                  </div> --}}
+                                </form>	
+                                <script src="public/js/googlesheet.js"></script>
+                                {{-- <div class="alert alert-success hidden animated fadeIn" id="contactSuccess" >
+                                  Thanks, your message has been sent to us.
+                                </div>
+                              
+                                <div class="alert alert-danger hidden animated shake" id="contactError">
+                                  <strong>Error!</strong> There was an error sending your message.
+                                </div> --}}
+                              </div>
+                            </div>
+                          </div>
+                            
+                        </div>
+                      </div>
+                    </div>
+                    
+                    <!-- DIVIDER -->
+                    <hr class="mt-0 mb-0">          
+                    
+                    <!-- CONTACT INFO SECTION 1 -->
+                    {{-- <div id="contact-link" class="page-section p-110-cont grey-light-bg">
+                      <div class="container">
+                        <div class="row">
+                        
+                          <div class="col-md-4 col-sm-6">
+                            <div class="cis-cont">
+                              <div class="cis-icon">
+                                <div class="icon icon-basic-map"></div>
+                              </div>
+                              <div class="cis-text">
+                                <h3><span class="bold">ADDRESS</span></h3>
+                                <p>790 FOLSOM AVE, SAN FRANCISCO</p>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 col-sm-6">
+                            <div class="cis-cont">
+                              <div class="cis-icon">
+                                <div class="icon icon-basic-mail"></div>
+                              </div>
+                              <div class="cis-text">
+                                <h3><span class="bold">EMAIL</span></h3>
+                                <p><a href="mailto:info@haswell.com">INFO@HASWELL.COM</a></p>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 col-sm-6">
+                            <div class="cis-cont">
+                              <div class="cis-icon">
+                                <div class="icon icon-basic-smartphone"></div>
+                              </div>
+                              <div class="cis-text">
+                                <h3><span class="bold">CALL US</span></h3>
+                                <p>1-800-312-212, 1-800-311-101</p>
+                              </div>
+                            </div>
+                          </div>
+                          
+                        </div>
+                      </div>        
+                    </div>  --}}
         
         <!-- BLOG 1 -->
         {{-- <div class="page-section pt-110-b-30-cont">
@@ -1205,3 +1404,16 @@
 			</div><!-- End BG -->	
 		</div><!-- End wrap -->	
 @endsection
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+        });
+      });
+    });
+  });
+</script>

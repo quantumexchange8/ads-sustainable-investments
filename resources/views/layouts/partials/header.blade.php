@@ -35,13 +35,13 @@
         
                         <!-- MENU ITEM -->
                         <li>
-                            <a href="{{ url('case') }}"><div class="main-menu-title">CASE STUDIES</div></a>
+                            {{-- <a href="{{ url('case') }}"><div class="main-menu-title">CASE STUDIES</div></a> --}}
                         </li>
                         <li>
-                            <a href="{{ url('stories') }}"><div class="main-menu-title">STORIES</div></a>
+                            {{-- <a href="{{ url('stories') }}"><div class="main-menu-title">STORIES</div></a> --}}
                         </li>
                         <li>
-                            <a href="{{ url('contact') }}"><div class="main-menu-title">CONTACT</div></a>
+                            {{-- <a href="{{ url('contact') }}"><div class="main-menu-title">CONTACT</div></a> --}}
                         </li>
       
                         </ul>
@@ -60,7 +60,7 @@
       
       <!-- SEARCH READ DOCUMENTATION -->
       <ul class="cd-header-buttons">
-          <li><a class="cd-search-trigger" href="#cd-search"><span></span></a></li>
+          {{-- <li><a class="cd-search-trigger" href="#cd-search"><span></span></a></li> --}}
       </ul> <!-- cd-header-buttons -->
       <div id="cd-search" class="cd-search">
           <form class="form-search" id="searchForm" action="page-search-results.html" method="get">
