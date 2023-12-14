@@ -59,7 +59,7 @@
 										</div>
 										
 										<!-- LAYER NR. 3 -->
-										<div class="tp-caption font-white light-73-wide sfb tp-resizeme"
+										<div class="tp-caption font-white light-73-wide"
 											data-x="center"
 											data-hoffset="0" 
                       data-y="center" 

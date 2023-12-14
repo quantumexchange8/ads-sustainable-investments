@@ -774,9 +774,16 @@ support for no js
 	font-size: 73px;
 	line-height: 73px;
 	font-weight: 300;
-  letter-spacing:24px;
+  letter-spacing:16px;
   color:#4b4e53;
 }
+@media (max-width: 768px){
+  .light-73-wide{
+    letter-spacing:14px;
+    font-size: 53px;
+  }
+}
+
 .light-72-wide{
 	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 72px;
