@@ -776,11 +776,19 @@ support for no js
 	font-weight: 300;
   letter-spacing:16px;
   color:#4b4e53;
+  width: 100%;
+  text-align: center;
 }
 @media (max-width: 768px){
   .light-73-wide{
     letter-spacing:14px;
     font-size: 53px;
+  }
+}
+@media (min-width: 1300px){
+  .light-73-wide{
+    letter-spacing:14px;
+    font-size: 43px;
   }
 }
 
