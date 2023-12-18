@@ -2972,7 +2972,7 @@ ul.contact-list li{
 =====================================================*/
 .contact-form-cont {
 	position: relative;
-  max-width:550px;
+  /* max-width:550px; */
   padding:80px 50px 30px 60px;
 }
 .contact-form-container-left {

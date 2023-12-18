@@ -12,13 +12,13 @@
 
 <body>
     <div class="page-wrapper">
-        <header>
+        {{-- <header>
 
             @if (!isset($excludeHeader) || !$excludeHeader)
                 @include('layouts.partials.header')
             @endif  
 
-        </header>
+        </header> --}}
 
         @yield('content')
 

@@ -958,7 +958,7 @@
             </div><!--end of row-->
           </div>
         </div>
-        <div class="container p-110-cont">
+        {{-- <div class="container p-110-cont">
           <div class="row">
             <div class="col-md-12">
                     
@@ -987,7 +987,7 @@
                   Following the environmental, social, and corporate governance (ESG) framework, there are a wide variety of investments that can be considered “sustainable.” Industries that promote good environmental practices, via more renewable energy sources or by combating air and water pollution, are perhaps the first things that come to mind for 
                   most people. However, sustainable investing can also include investing in companies that support human rights initiatives or a more ethical corporate culture.
                  </dd>
-                 {{-- <dt>
+                 <dt>
                    <a href="#">HOW DO I BECOME AN AUTHOR?</a>
                  </dt>
                  <dd>
@@ -1004,12 +1004,12 @@
                  </dt>
                  <dd>
                    CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
-                 </dd> --}}
+                 </dd>
                </dl>
                <!-- End Accordion -->
             </div>          
           </div>          
-        </div>    
+        </div>     --}}
 
                     <!-- GOOGLE MAP & CONTACT FORM -->
                     <div class="page-section" id="contact-section">
@@ -1017,12 +1017,53 @@
                         <div class="row">
                         
                           <div class="col-md-6">
-                            <div class="row">
-                              <div class="google-map">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.8738357257325!2d-122.40630728431469!3d37.79299637975601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085808a52e9373d%3A0x9c2dff1cdf2bd440!2s580+California+Street%2C+580+California+St%2C+San+Francisco%2C+CA+94104%2C+%D0%A1%D0%A8%D0%90!5e0!3m2!1sru!2sby!4v1549462634166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                              </div>
-                            </div>
-                          </div>
+                            <br><br>
+                            <h2>FAQs</h2>
+                            <hr>
+                          <!-- Accordion -->
+                           <dl class="accordion">
+                             <dt>
+                               <a href="#">Is ESG investing profitable?</a>
+                             </dt>
+                             <dd>
+                              A 2019 study of 11,000 mutual funds conducted by the Morgan Stanley Institute for Sustainable Investing found that there was no financial 
+                              trade-off in the returns of sustainable funds compared to their more traditional counterparts. Additionally, regardless of the asset class held, sustainable funds also showed a significantly lower downside risk. Finally, during periods of high market volatility, sustainable funds generally proved to be more stable investments.
+                             </dd>
+                             <dt>
+                               <a href="#">Is there such a thing as ethical investing?</a>
+                             </dt>
+                             <dd>
+                              For someone to invest ethically, they must use their ethical principles as the primary filter when selecting companies to invest in. What makes this different from green or ESG investing, each of which typically have an overarching set of guidelines, is that the criteria that make a company “ethical” can differ from one investor to 
+                              another. For example, two investors who both value clean energy companies may disagree on whether or not nuclear energy qualifies as a “clean” source.
+                             </dd>
+                             <dt>
+                               <a href="#">What are examples of sustainable investments?</a>
+                             </dt>
+                             <dd>
+                              Following the environmental, social, and corporate governance (ESG) framework, there are a wide variety of investments that can be considered “sustainable.” Industries that promote good environmental practices, via more renewable energy sources or by combating air and water pollution, are perhaps the first things that come to mind for 
+                              most people. However, sustainable investing can also include investing in companies that support human rights initiatives or a more ethical corporate culture.
+                             </dd>
+                             {{-- <dt>
+                               <a href="#">HOW DO I BECOME AN AUTHOR?</a>
+                             </dt>
+                             <dd>
+                               CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
+                             </dd>
+                             <dt>
+                               <a href="#">WHAT CONTENT CAN I USE IN MY ITEMS?</a>
+                             </dt>
+                             <dd>
+                               CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
+                             </dd>
+                             <dt>
+                               <a href="#">HOW DO I PAY FOR ITEMS?</a>
+                             </dt>
+                             <dd>
+                               CSS stands for Cascading Style Sheet. CSS allows you to specify various style properties for a given HTML element such as colors, backgrounds, fonts etc.
+                             </dd> --}}
+                           </dl>
+                           <!-- End Accordion -->
+                        </div> 
           
                           <div class="col-md-6">
                             <div class="contact-form-cont">
